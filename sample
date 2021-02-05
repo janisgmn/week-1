@@ -1,0 +1,15 @@
+let student = {
+ name: "Janis",
+ surname: "Guaman",
+ school: "Jose marti STEM academy",
+ grade: "9th"
+ age: "14",
+};
+let greeting = "hey, how have you been?"; 
+let today_is_thursday = true;
+let tomorrow_is_monday = false;
+const gender = "Female" 
+let favorite fruits = ["grapes", "watermelon", "melon","strawberries"]
+let favorite foods = ["pasta", "caesar salad", "pizza", "curry",]
+let favorite drinks = ["water", "lemonade", "iced tea"]
+const eye_color = "dark brown"
